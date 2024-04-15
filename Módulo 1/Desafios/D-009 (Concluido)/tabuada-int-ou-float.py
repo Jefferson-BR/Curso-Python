@@ -1,0 +1,5 @@
+numero_desejado = int(input('Digite um número que você deseja saber a tabuada? Número: '))
+
+numeros_positivos = numero_desejado *1, numero_desejado *2, numero_desejado *3, numero_desejado *4, numero_desejado *5, numero_desejado *6, numero_desejado *7, numero_desejado *8, numero_desejado *9, numero_desejado *10 
+
+print(f'Tabuada do número {numero_desejado}: \n{numero_desejado} x 1 = {numeros_positivos[0]}\n{numero_desejado} x 2 = {numeros_positivos[1]}\n{numero_desejado} x 3 = {numeros_positivos[2]}\n{numero_desejado} x 4 = {numeros_positivos[3]}\n{numero_desejado} x 5 = {numeros_positivos[4]}\n{numero_desejado} x 6 = {numeros_positivos[5]}\n{numero_desejado} x 7 = {numeros_positivos[6]}\n{numero_desejado} x 8 = {numeros_positivos[7]}\n{numero_desejado} x 9 = {numeros_positivos[8]}\n{numero_desejado} x 10 = {numeros_positivos[9]}')

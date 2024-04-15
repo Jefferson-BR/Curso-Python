@@ -1,0 +1,25 @@
+print: Função usada para exibir mensagens na saída padrão, como na tela.
+
+int: Tipo de dados que representa números inteiros.
+float: Tipo de dados que representa números decimais (ponto flutuante).
+bool: Tipo de dados booleano que pode ter apenas dois valores: True ou False.
+str: Tipo de dados que representa uma sequência de caracteres, ou seja, uma cadeia de texto.
+
+Operadores aritméticos:
+
+Adição (+): Realiza a operação de adição entre dois valores.
+Subtração (-): Realiza a operação de subtração entre dois valores.
+Multiplicação (*): Realiza a operação de multiplicação entre dois valores.
+Divisão (/): Realiza a operação de divisão entre dois valores, retornando um valor de ponto flutuante.
+Divisão inteira (//): Retorna a parte inteira da divisão entre dois valores.
+Módulo ou resto da divisão(%): Retorna o resto da divisão entre dois valores.
+Potenciação (**): Eleva um valor à potência especificada.
+
+Ordem de precendência:
+
+A ordem de precedência em Python determina a ordem na qual os operadores são avaliados em uma expressão. Os operadores com maior precedência são avaliados primeiro, seguidos pelos operadores com menor precedência. A ordem de precedência em Python é a seguinte:
+
+Parênteses ()
+Potenciação **
+Multiplicação *, Divisão /, Divisão inteira //, Módulo %
+Adição +, Subtração -
