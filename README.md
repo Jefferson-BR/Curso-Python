@@ -1,1 +1,1 @@
-### Armazenamento/backuo do Curso de Python
+### Armazenamento/backup do Curso de Python
