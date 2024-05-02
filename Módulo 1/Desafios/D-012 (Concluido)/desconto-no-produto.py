@@ -1,4 +1,4 @@
-valor_produto = 120.00
+valor_produto = 546
 calculo = valor_produto * 0.05
 desconto = valor_produto - calculo
 

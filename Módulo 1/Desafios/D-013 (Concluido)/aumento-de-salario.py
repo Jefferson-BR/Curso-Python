@@ -1,4 +1,4 @@
-salario = 1500.00
+salario = 4319.43
 aumento = salario * 0.15
 salario_atual = aumento + salario
 
