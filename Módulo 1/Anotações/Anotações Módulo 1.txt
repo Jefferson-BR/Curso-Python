@@ -105,4 +105,18 @@ Adição +, Subtração -
   split() -----------> Vai ocorrer uma divisão entre os espaços da frase ----- frase.split()
   .join() -----------> Juntar uma coisa com a outra -------------------------------------- '-'.join.frase Estou-aprendendo-a-programar-em-python
 
+-~-~-~-~-~-~-~-~- if elif else ~-~-~-~-~-~-~-~-
+
+Estrutura if:
+
+- A estrutura if é utilizada para executar um bloco de código somente se uma determinada condição for verdadeira. Se a condição for falsa, o bloco de código é ignorado.
+
+Estrutura elif:
+
+- A estrutura elif (abreviação de "else if") permite verificar múltiplas condições sequencialmente após um if. Se a condição no if for falsa, o programa verifica a condição no elif. Você pode usar vários elif para testar várias condições. Apenas o primeiro bloco elif cuja condição for verdadeira será executado.
+
+Estrutura else:
+
+- A estrutura else é usada após um if ou um elif para especificar um bloco de código que deve ser executado se todas as condições anteriores forem falsas. O else é uma espécie de "último recurso" que captura todas as situações que não foram tratadas pelos if e elif anteriores.
+
 -~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
